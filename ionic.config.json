@@ -1,0 +1,7 @@
+{
+  "name": "Muva",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
